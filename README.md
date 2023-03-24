@@ -12,7 +12,7 @@ I'm Hamza Arif a MERN Stack Developer and Content writer.
 - 🏫 I'm currently a software engineering student @MUST 
 - 🎓 I'm currently learning alot of things
 - 🙏 I'm looking to collaborate with other web developer
-- 🥅 2022 Goal: Contribute to the Open Source projects
+- 🥅 2023 Goal: Contribute to the Open Source projects
 - ⚡ I might be a programmer but I love socializing 
 
 
