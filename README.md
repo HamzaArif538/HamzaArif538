@@ -9,10 +9,10 @@ I'm Hamza Arif a React Developer.
 
 
 - 👨‍🎓 I'm a Student, Developer and learner
-- 🏫 I'm currently a software engineering student @MUST 
+- 🏫 I'm a software engineering
 - 🎓 I'm currently learning alot of things
 - 🙏 I'm looking to collaborate with other web developer
-- 🥅 2023 Goal: Contribute to the Open Source projects
+- 🥅 2025 Goal: Contribute to the Open Source projects
 - ⚡ I might be a programmer but I love socializing 
 
 
