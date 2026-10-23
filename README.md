@@ -9,11 +9,8 @@ I'm Hamza Arif a React Developer.
 
 
 - 👨‍🎓 I'm a Student, Developer and learner
-- 🏫 I'm a software engineering
+- 🏫 I'm a Cyber Security Graduate
 - 🎓 I'm currently learning alot of things
-- 🙏 I'm looking to collaborate with other web developer
-- 🥅 2025 Goal: Contribute to the Open Source projects
-- ⚡ I might be a programmer but I love socializing 
 
 
 #### Profile Visits 
